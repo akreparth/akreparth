@@ -16,7 +16,7 @@ When I'm not Coding, Youâ€™ll find me diving into finance and business trends â€
 <h4 align="left">Tech I Use -</h4>
 
 <!-- GIF added to the right side with slight downward shift -->
-<img align="right" src="https://github.com/akreparth/akreparth/blob/main/1c9eb0dd20e5c25e1f85de5dca42444d.gif" height="260" style="margin-top: 2px;" />
+<img align="right" src="https://github.com/akreparth/akreparth/blob/main/1c9eb0dd20e5c25e1f85de5dca42444d.gif" height="200" style="margin-top: 2px;" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" aalt="python logo" />
