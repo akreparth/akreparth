@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/1c/9e/b0/1c9eb0dd20e5c25e1f85de5dca42444d.gif"  />
+<img align="right" height="150" src="https://github.com/akreparth/akreparth/blob/main/1c9eb0dd20e5c25e1f85de5dca42444d.gif"  />
 
 ###
 
