@@ -44,6 +44,13 @@ When I'm not Coding, Youâ€™ll find me diving into finance and business trends â€
   <a href="https://www.linkedin.com/in/akreparth/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="mailto:akreparthpvt@proton.me?subject=H&body=Hi%20Parth%2C%0D%0AI%20am%20___" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Protonmail&logo=gmail&label=&color=463b7b&logoColor=918ba7&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/akreparth">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height='35' alt="Discord">
+  </a>
+  <p><strong>Add me on Discord: @akreparth</strong></p>
 </div>
 
 ###
