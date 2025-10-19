@@ -61,8 +61,8 @@ When I'm not Coding, Youâ€™ll find me diving into finance and business trends â€
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/akreparth/count.svg?"  />
-</div>
+</div> -->
 
 ###
