@@ -36,6 +36,8 @@ When I'm not Coding, Youâ€™ll find me diving into finance and business trends â€
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
 </div>
 
 <h4 align="left">You can find me on -</h4>
